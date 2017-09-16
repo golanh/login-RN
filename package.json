@@ -7,10 +7,12 @@
     "test": "jest"
   },
   "dependencies": {
+    "firebase": "^4.3.1",
     "react": "16.0.0-alpha.12",
     "react-native": "0.48.3"
   },
   "devDependencies": {
+    "@types/react-native": "^0.48.4",
     "babel-jest": "21.0.2",
     "babel-preset-react-native": "4.0.0",
     "eslint-config-rallycoding": "^3.2.0",
